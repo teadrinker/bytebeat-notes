@@ -60,7 +60,7 @@ volume envelope!  (I made a [shorter and even louder](https://madtealab.com/?V=1
 
 ### Prototyping
 
-Long ago, I created a tool called [Mad Tea Lab](https://madtealab.com/?V=1&C=3&F=3&G=1&R=0&GX=0.68&GS=3.76&GSY=0.2&a=0.1&aMa=0.5&aN=Decay&b=0.2&bN=Noise&c=440&cMi=50&cMa=1000&cN=Freq&f1=exp%28-x%2FDecay%29&fe1=0&f1N=Dec&f2=Dec%28x%29+%2A+sin%28x%2Api%2A2%2AFreq%29+%2A+%281+-+Noise%29&f3=Dec%28x%29+%2A+rnd0%28x%29+%2A+0.1+%2A+Noise&S=3&SLE=0.7&SPM=1&Expr=%2F%2F+Drag+sliders+to+play+sound%21%0A%0A%2F%2F+You+can+always+play+the+activated+functions+as+sound%0A%2F%2F+using+the+play+button+on+the+top+of+the+functions+panel.%0A) which I use to prototype DSP and algorithms. For instance, you can set it up to [tweak a simple kick](https://madtealab.com/?V=1&C=4&F=1&G=1&E=0&R=0&GH=283&GX=0.62&GY=-0.11&GS=3.03&GSY=0.15&a=0.52&b=300&bMa=1000&c=0.32&d=-0.47&dMi=-1&f1=sin%28x%2A%2Aa%2Ab%29+%2A+clamp%28%281-%28x-d%29%29%2Fc%29&S=3&SLE=0.5) 
+I used my old live-coding tool [Mad Tea Lab](https://madtealab.com/?V=1&C=3&F=3&G=1&R=0&GX=0.68&GS=3.76&GSY=0.2&a=0.1&aMa=0.5&aN=Decay&b=0.2&bN=Noise&c=440&cMi=50&cMa=1000&cN=Freq&f1=exp%28-x%2FDecay%29&fe1=0&f1N=Dec&f2=Dec%28x%29+%2A+sin%28x%2Api%2A2%2AFreq%29+%2A+%281+-+Noise%29&f3=Dec%28x%29+%2A+rnd0%28x%29+%2A+0.1+%2A+Noise&S=3&SLE=0.7&SPM=1&Expr=%2F%2F+Drag+sliders+to+play+sound%21%0A%0A%2F%2F+You+can+always+play+the+activated+functions+as+sound%0A%2F%2F+using+the+play+button+on+the+top+of+the+functions+panel.%0A) to prototype. For example, you can set it up [like this to tweak a simple kick](https://madtealab.com/?V=1&C=4&F=1&G=1&E=0&R=0&GH=283&GX=0.62&GY=-0.11&GS=3.03&GSY=0.15&a=0.52&b=300&bMa=1000&c=0.32&d=-0.47&dMi=-1&f1=sin%28x%2A%2Aa%2Ab%29+%2A+clamp%28%281-%28x-d%29%29%2Fc%29&S=3&SLE=0.5)!
 
 
 # Love Byte
