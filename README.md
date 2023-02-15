@@ -67,7 +67,7 @@ Long ago, I created a tool called [Mad Tea Lab](https://madtealab.com/?V=1&C=3&F
 # Love Byte
 I had great fun participating in Love Beat 2023, thanks especially to the organizing team, psenough, jeenio, gasman and the Byte Battle participants! Also some learned some interesting stuff like using [Five-limit tuning](https://en.wikipedia.org/wiki/Five-limit_tuning) in the [Seminar by pestis](https://www.youtube.com/watch?v=9eGESjbpz1A)!
 
-This was my first real size coding attempt. I have always loved to find minimal ways to express logic, but I also dislike obfuscation. This made me more tolerant I guess, but not sure if that is a good thing? :)
+This was my first real size-coding attempt. I have always loved to find minimal ways to express logic, but I also dislike obfuscation. This made me more tolerant I guess, but not sure if that is a good thing? :)
 
 
 # More Byte Beat Stuff!
