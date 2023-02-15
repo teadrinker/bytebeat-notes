@@ -41,7 +41,7 @@ b=t/4%1,                   // b = normalized time for kick
   -x)*
       min(max(1-2*b,0),1)  // mix amount (kick=0, synth=1)
 
-   +1)*127                 // scale from -1 to 1 to byte range
+  +1)*127                  // scale from -1 to 1 to byte range
    
 ```
 
