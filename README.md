@@ -2,7 +2,7 @@
 
 # Technological Bass
 A bit of music generated from 244 characters of code, [listen here.](https://bytebeat.demozoo.org/#t=0&e=0&s=44100&bb=5d00000100f40000000000000000398f4a83103f72f8f843a72c6bd9c084494863436cf707856dc75dadf8d3fc4407884235cf7b3d7f973f87534cf0f9341e89e4a5663ebb4e5e7421294f43c8adc23399a92a983078bc2ca0d3b18141668e7a0acf5b83d10c70c5f094548bd0a6c2b872ae6e984315b30fe829b7db406e81bafe1baa9100777f73f0194582fd4a5d5228ca8ddaed34e8b77621b071ac458207a5d876d588bdcd521777d10b335212cacb29e63bb2ddcff7e7690d705bb41a5b030505996338d7a6cc86de249c8d9be26f4d63c8b6ffab221000) 
-Made for [Love Byte](https://lovebyte.party/) 2023. The "music" is very basic, most of the character budget was spent on sound design..
+Made for [Love Byte](https://lovebyte.party/) 2023. The "music" is very basic, most of the character budget was spent on sound design.
    
 ### Annotated source
 [Open in bytebeat player](https://bytebeat.demozoo.org/#t=0&e=0&s=44100&bb=5d00000100c70500000000000000398f4a83103f72f8f7f68dbb18af2c6497131378d528fdae67cb29f168960950b6e70e4abc0dddb121b62538402f7cf06e053d2f81db10e86de9017aebcb2f6eeabb6b2683e9f9fa0741d1ddaa45226eeacdc667f855faf953b9a231f425810ede648e33cdfc8ed7d347ae94f6a4e9430d0e110bf1ce06acaaaaac2f1084eeb776aa35f142a9ddc19967e9aaa92af3db5bb34e8d645e1362079cda430940dc6fd7ac9b3c85ac7e2818e9423361ebab7b2098add2d6939c700369438e5ec59c5ba1ed86e16b83f6e0a25eb5b803d4aff4f723773df9763da7ec28675a6786b47762b06e11086044254297b6d08dbbb7da70b972a0d6c58f6f790d10d17b2bb1bf61b764cf6cb7d572e161d54f3849fb019e0575ddc41bccc1a73f866682d17bfcdf23fbf8951d79129035e395ae8658af7fea64e02d7f3e44b6b2e9b10da465ef36f72a618dbeecf6d4f37c5964e1f0ce160f1b390c705f0e1ee024969cc929f5dc5d28f155f8b6a1c0bdb3cde8bc2de0dd1146b7c90f46d4884ddf037ba7960fc50948ddf8d8bd95c8b7bb0cfaabf87d7327e661db2e240517adf61f50a25398bf3cc081aa03d255cf857123d3c6533ea02fa270be90c547782891782184d9a3c0f1dad9d10f88feb6468a71569e59ec171bf5266727c80beca09d5ccc97a4aae0aa46c8416860667d985620b025d13580b8004b272ec46e5f94c3165b042f82fae55a50cf0df9ea15782a45da550daa20ca17555ec6458f52a6d40a7c4ad70b131bd158257846e98850f89c7ee43f76b2210ef43ead1dee82315198d0e72b160005b41ad5fd41bd1620e03cf78a8681c28058c8e9cbb22b9fbd7ab4d4f2c940111e7df4e07410b52fea6336307afa078be6d016307f4f69879a5fb0990dce2ff076d0da6d8f8036547d2146c229634944d68e0519a643d469d691bdca31dbce2ac75d3fb3d23125dc090748c12ecdb88d477adf688f4a63425f8aba6c8092fb4304ce6a97811502ffc5f66b00) 
@@ -65,7 +65,9 @@ Long ago, I created a tool called [Mad Tea Lab](https://madtealab.com/?V=1&C=3&F
 
 
 # Love Byte
-I had great fun participating in Love Beat 2023, thanks especially to the organizing team, psenough, jeenio, gasman and byte battle participants! Also some learned some interesting stuff like using [Five-limit tuning](https://en.wikipedia.org/wiki/Five-limit_tuning) in the [Seminar by pestis](https://www.youtube.com/watch?v=9eGESjbpz1A). This was my first real size coding attempt. I have always loved to find minimal ways to express logic, but I also dislike obfuscation. This made me more tolerant I guess, but not sure if that is a good thing. :)
+I had great fun participating in Love Beat 2023, thanks especially to the organizing team, psenough, jeenio, gasman and the Byte Battle participants! Also some learned some interesting stuff like using [Five-limit tuning](https://en.wikipedia.org/wiki/Five-limit_tuning) in the [Seminar by pestis](https://www.youtube.com/watch?v=9eGESjbpz1A)!
+
+This was my first real size coding attempt. I have always loved to find minimal ways to express logic, but I also dislike obfuscation. This made me more tolerant I guess, but not sure if that is a good thing? :)
 
 
 # More Byte Beat Stuff!
